@@ -30,3 +30,13 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
+
+### Day 1: January 3, 2017
+
+**Today's Progress:** Learnt and coded some flexbox CSS on www.flexboxdefense.com. Got to Level 9 today.
+
+**Thoughts:** Flexboxes aren't too hard, but this tutorial probably isn't covering all of it. I'll need to know enough of it to implement an upcoming project.
+
+**Links to work:** ![flexbox defense](http://i.imgur.com/A4O2Mlu.jpg)
+
+----
