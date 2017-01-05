@@ -40,3 +40,17 @@
 **Links to work:** ![flexbox defense](http://i.imgur.com/A4O2Mlu.jpg)
 
 ----
+
+### Day 2: January 5, 2017
+
+_Skipped yesterday due to traveling the whole day._
+
+**Today's Progress:** Finished flexboxdefense! Wasn't too hard overall. Also started on my new project, Ultimate Tic Tac Toe.
+
+**Thoughts:** Okay, flexbox *definitely* is harder than flexboxdefense shows. Tried making a simple 3x3 grid using flexbox, failed miserably, ending up with something that looks nothing like a grid. Will check out [CSS Tricks' exhaustive guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) for more information tomorrow.
+
+**Links to work:**
+- Flexbox Defense: ![complete all levels](http://i.imgur.com/WOiHIan.jpg)
+- [Ultimate Tic Tac Toe prototype grid](https://github.com/Mindstormer619/ult-ttt/commit/2f4695b1ed0918c99c5b56107931d84e7b3991c6)
+
+----
