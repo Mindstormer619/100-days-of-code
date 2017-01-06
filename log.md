@@ -4,11 +4,11 @@
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
@@ -52,5 +52,15 @@ _Skipped yesterday due to traveling the whole day._
 **Links to work:**
 - Flexbox Defense: ![complete all levels](http://i.imgur.com/WOiHIan.jpg)
 - [Ultimate Tic Tac Toe prototype grid](https://github.com/Mindstormer619/ult-ttt/commit/2f4695b1ed0918c99c5b56107931d84e7b3991c6)
+
+----
+
+### Day 3: January 6, 2017
+
+**Today's Progress:** Did something different today! Taught basic HTML, CSS and JavaScript at a college gamedev workshop. We're building (a simple version of) the Chrome dino game!
+
+**Thoughts:** Teaching code is great fun. Also quite exhausting. Also wrote a crapton of other code today, but unfortunately those have to be in private repositories at the moment.
+
+**Link to work:** Unfortunately, no links today. I'll add the link to the repo when it goes public. My anonymized contributions should be visible on my Github graph, however.
 
 ----
