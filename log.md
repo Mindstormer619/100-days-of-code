@@ -64,3 +64,18 @@ _Skipped yesterday due to traveling the whole day._
 **Link to work:** Unfortunately, no links today. I'll add the link to the repo when it goes public. My anonymized contributions should be visible on my Github graph, however.
 
 ----
+
+### Day 4: January 7, 2017
+
+**Today's Progress:** Completed [Flexbox Froggy](http://flexboxfroggy.com). Also taught how to make a simple version of the [Chrome Dinosaur Game](https://gitlab.com/mindstormer619/chrome-dino) in a six-hour workshop at MEPCO-Schlenk Engineering College, Sivakasi - TN (India).
+
+**Thoughts:** Even more teaching today! The workshop basically continued from the previous day, and concluded today. Pretty much totally exhausted, so I didn't have much time to learn much more about flexboxes. Flexbox Froggy contains a bit more stuff to it than Flexbox Defense does (see Day 1), so learnt more flex properties (`flex-flow`, `flex-wrap` and `align-content`). Also it contains twice the number of levels, so that's great.
+
+Tomorrow I'm mostly free from commitments, so I'm planning on spending a lot more time working with flexboxes. Also gonna read those guides I've linked earlier.
+
+**Link to work:**
+- Flexbox Froggy: ![froggy completed](http://i.imgur.com/JeZUI5c.jpg)
+- Chrome Dino (I made this a few months ago, but pretty much live-coded this again during the workshop): https://gitlab.com/mindstormer619/chrome-dino
+
+----
+
