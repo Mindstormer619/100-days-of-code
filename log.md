@@ -79,3 +79,18 @@ Tomorrow I'm mostly free from commitments, so I'm planning on spending a lot mor
 
 ----
 
+### Day 5: January 8, 2017 (more like 9th, it's really late right now)
+
+**Today's Progress:** Made that freakin flexbox grid I have been trying to make for SO LONG! Lots of trial-and-error later, I finally got *exactly* what I was looking to create today. 
+
+**Thoughts:** Initially the whole thing was pretty hit-and-miss. I was trying a lot of stuff, and nothing was really looking the way I wanted it to, or used some weird hack that didn't exactly set things correctly. (Technically even now I'm using *one* weird hack, but if you know of a non-hacky way to make something look *square* using plain CSS, please let me know).
+
+But now I think I'm getting the hang of it. And the whole thing's great fun now :smile:
+
+**Link to work:**
+
+I've quick-hosted the output [here](http://spider.nitt.edu/~darthsid/flextest).
+
+The code is part of [this repository](https://github.com/Mindstormer619/ult-ttt) -- the commit is linked [here](https://github.com/Mindstormer619/ult-ttt/commit/5510ef706ea950e6397d31605fafa2fd22c75b06).
+
+----
