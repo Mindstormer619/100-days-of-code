@@ -94,3 +94,23 @@ I've quick-hosted the output [here](http://spider.nitt.edu/~darthsid/flextest).
 The code is part of [this repository](https://github.com/Mindstormer619/ult-ttt) -- the commit is linked [here](https://github.com/Mindstormer619/ult-ttt/commit/5510ef706ea950e6397d31605fafa2fd22c75b06).
 
 ----
+
+### Day 6: January 9, 2017
+
+**Today's Progress:** Made a full Ultimate Tic Tac Toe grid using flexbox, completing that which I was halfway through yesterday. The grid now looks glorious:
+
+![ULTIMATE TIC TAC TOEEEEEE!!!](http://i.imgur.com/esbh8wC.jpg)
+
+Also more small changes on the server side of things. I'll be using socket.io websockets to communicate between the game players and the server.
+
+**Thoughts:** Truth be told, there wasn't *that* much progress today. Heart was just not in it. Spent most of the day procrastinating over other stuff, so I'm pretty sure I could have finished a lot more in the time I took to do this today had I spent a little more time earlier reading up some prerequisites rather than just winging it along. Tomorrow will be a better day.
+
+I'm pretty sure I'm getting the total hang of flexboxes though. They're super-neat.
+
+A two-player game is a fairly complicated application. I'll have to spend some serious time planning how the client-server interaction works out and how I can minimize the amount of stuff that needs to be done on the server to keep it zipping through games.
+
+**Link to work:** I merged the code back to master in a nice little squashed commit, so it's right at [this commit](ac1ea3d959f0e974dc482e63d854d1eec2b358d4) showing only the nice result and not the PITA trial-and-error I had to do to get here.
+
+OSHIT I JUST REALIZED deleting the PR branch would make some of the previous links I've sent up here moot. I'll see what I can do about it.
+
+----
