@@ -114,3 +114,16 @@ A two-player game is a fairly complicated application. I'll have to spend some s
 OSHIT I JUST REALIZED deleting the PR branch would make some of the previous links I've sent up here moot. I'll see what I can do about it.
 
 ----
+
+### Day 7: January 10, 2017
+
+**Today's Progress:**
+- Read about [JWT authenticated sockets](https://auth0.com/blog/auth-with-socket-io/) and played around with them a bit.
+- Taught about basic relational database modeling and concepts during a two-hour seminar at my local college coding club.
+- CRed (Code Reviewed) a bit of code from an ongoing project that some of us are working on.
+
+**Thoughts:** Overall, a productive day for the most part. However I didn't have the time to advance my own projects much today. I seriously need to stop beginning working on these so late at night lol.
+
+**Link to work:** I've got no links right now because the actual amount of written code at the end was virtually nil. Will put an update once I make the actual authenticated sockets for the UTTT game.
+
+----
