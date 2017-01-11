@@ -127,3 +127,19 @@ OSHIT I JUST REALIZED deleting the PR branch would make some of the previous lin
 **Link to work:** I've got no links right now because the actual amount of written code at the end was virtually nil. Will put an update once I make the actual authenticated sockets for the UTTT game.
 
 ----
+
+### Day 8: January 11, 2017
+
+**Today's Progress:** Fiddled around with getting Handlebars partials to work. They just did not. This took really long smh.
+
+**Thoughts:** I've gotta start getting used to this. I mean it's not like this is the first time I'm coming across libraries that have cryptic documentation... but I tried way too long and something about this is just not making any sense and I'm beginning to wonder why what I'm doing is so complicated to accomplish when it really should not be.
+
+The main problem I'm finding with Node is that (aside from being built on JavaScript which is fundamentally an absolute scum-of-the-earth language) many packages are expected to work with each other a lot but have extremely limited documentation on how you get that actually done. Take for example, express with sessions, socket.io with express (for which I literally had to look at another [*repository*](https://github.com/onedesign/express-socketio-tutorial) made by someone who complained about exactly the same thing), handlebars with express (the HBS documentation describes stuff using handlebars as a standalone frontend JS object, not as an express-integrated Node library)... the list goes on. (Wow I just noticed that all of those have Express in them. For something that's supposed to integrate with a lot of other stuff the number of working examples available is notoriously small.)
+
+Most of the time, getting it to work is a trivial deal involving a couple lines of extra configuration. But the problem is _when that is not documented, the configuration **ceases** to be a trivial deal_. It becomes a much longer process of looking at online tutorials and examples and StackOverflow and asking fellow devs who've managed to get it work in the past.
+
+This is getting ridiculous tbh. For those who might want to help, what I'm trying to do is really simple, which is include a handlebars partial within the main layout page (which contains the HTML `<head>` section), however the partial itself (containing a JS script) is defined in an inline fashion inside the `index.hbs` file. For more context, the commit is linked below.
+
+**Link to work:** The commit is linked [here](https://github.com/Mindstormer619/ult-ttt/commit/531a0ce65eecd3f78cfcdcd6f07f53de7620768a). If you're good at Handlebars (especially in Express configurations), you're welcome to help. I'm [@Mindstormer619](https://twitter.com/Mindstormer619) on Twitter.
+
+----
