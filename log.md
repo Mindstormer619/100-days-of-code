@@ -143,3 +143,21 @@ This is getting ridiculous tbh. For those who might want to help, what I'm tryin
 **Link to work:** The commit is linked [here](https://github.com/Mindstormer619/ult-ttt/commit/531a0ce65eecd3f78cfcdcd6f07f53de7620768a). If you're good at Handlebars (especially in Express configurations), you're welcome to help. I'm [@Mindstormer619](https://twitter.com/Mindstormer619) on Twitter.
 
 ----
+
+### Day 9: January 13, 2017
+
+_Skipped yesterday due to illness._
+
+**Today's Progress:** Made a working prototype of authenticated websockets on socket.io! _feelsgoodman.jpg_
+
+**Thoughts:** This felt great. Development felt right for once after quite a while. Maybe I'm just not a frontend person lol.
+
+I'm still trying to flesh out the details of the game itself, but at least the stuff I'm prototyping is actually working the way I expect it to. Though socket.io's documentation is not the *best* I've seen, it's workable at the least.
+
+There'll soon be a point where I'll have to focus less on the code itself and more on the game architecture. Development will be slower on those days. Hopefully pseudocode counts in the 100DaysOfCode Challenge :smile:
+
+About Handlebars... I have a friend who knows how to work with partials. Just waiting for a couple days for him to be available to help me with it. For now I don't intend to waste any more time fiddling around with something I only have a half-assed chance of getting to work.
+
+**Link to work:** Commit linked [here](https://github.com/Mindstormer619/ult-ttt/commit/ecf5d1d7ffee966ba6fff57febe2028021420486). I also just started a channel on Telegram where I have automatic updates for the `ult-ttt` repository. Reach out to me on [@Mindstormer619](https://t.me/Mindstormer619) if you want in on the live notifications.
+
+----
