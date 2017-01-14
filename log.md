@@ -161,3 +161,23 @@ About Handlebars... I have a friend who knows how to work with partials. Just wa
 **Link to work:** Commit linked [here](https://github.com/Mindstormer619/ult-ttt/commit/ecf5d1d7ffee966ba6fff57febe2028021420486). I also just started a channel on Telegram where I have automatic updates for the `ult-ttt` repository. Reach out to me on [@Mindstormer619](https://t.me/Mindstormer619) if you want in on the live notifications.
 
 ----
+
+### Day 10: January 14, 2017
+
+**Today's Progress:** Successfully made a blank WebGL canvas, unsuccessful attempt at putting a 2D object in there.
+
+**Thoughts:** **_WOO CHALLENGE COMPLETION 10% ONE TENTH THERE WOOOOOOOOOOO_**
+
+_Ahem._
+
+Okay, WebGL is _difficult!_ There's so many _numbers_ and magic constants and weird abbreviated functions and scripts in other languages and graphics jargon and math and so many other weirdybits. This was totally unexpected. I thought I could break from UTTT and have a nice chill coding session doing some monkey-see-monkey-do from Mozilla's [MDN pages on WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial) but nonononononoooo shit has just *got* to fail on me left right and center.
+
+Heck I'm pretty sure I have exactly the same source code as their demo source... I pretty much put a two-pane view and checked them side-by-side and couldn't find anything wrong. But hey, their code works and mine... doesn't. Canvas remains as black as ever.
+
+And all this effort to get a freakin white square on the screen. Add to that the fact that I understood only about 40% of what I was doing. Most of this flies over my head and the main issue seems to be that they assume you're familiar with OpenGL already (which I'm not, so it's more like *my* issue, but why would I blame myself amirite?)
+
+I've had it with this. I'll look into more detailed WebGL tutorials later, when I feel up to it. Tomorrow, perhaps, I'll look into some libraries that will hopefully ease things up. Not really *looking* to learn graphics programming in depth at the moment, more like getting something specific to work... so a library will do.
+
+**Link to work:** Commit linked [here](https://github.com/Mindstormer619/webgl-experiments/commit/332fdf875d618dcb535afc868313ec28a3ff351c). Most of the content is ditto from [this page](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Adding_2D_content_to_a_WebGL_context) (in fact, I would argue that it's *all* the content, not just most of it. BUT IT IS NOT WORKING.)
+
+----
