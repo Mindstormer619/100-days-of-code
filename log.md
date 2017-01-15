@@ -181,3 +181,15 @@ I've had it with this. I'll look into more detailed WebGL tutorials later, when 
 **Link to work:** Commit linked [here](https://github.com/Mindstormer619/webgl-experiments/commit/332fdf875d618dcb535afc868313ec28a3ff351c). Most of the content is ditto from [this page](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Adding_2D_content_to_a_WebGL_context) (in fact, I would argue that it's *all* the content, not just most of it. BUT IT IS NOT WORKING.)
 
 ----
+
+### Day 11: January 15, 2017
+
+**Today's Progress:**
+
+Made a basic working threejs demo referenced in [threejs documentation](https://threejs.org/docs/index.html#Manual/Introduction/Creating_a_scene). Also made a couple of modifications to ensure that I'm really understanding what I'm doing. Thankfully it worked.
+
+**Thoughts:** Man, this is so much easier than raw WebGL code. It's beginning to look like I can use ThreeJS for the other WebGL project I have planned (which will also go up on my Github, worry you not).
+
+Stellar documentation on that software right there. I'm a graphics programming noob but I still got virtually 100% of what I coded.
+
+**Link to work:** Commit linked [here](https://github.com/Mindstormer619/webgl-experiments/commit/bda740acb3c19f8678864dc6cbad67be259dc4d0).
