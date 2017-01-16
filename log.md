@@ -193,3 +193,23 @@ Made a basic working threejs demo referenced in [threejs documentation](https://
 Stellar documentation on that software right there. I'm a graphics programming noob but I still got virtually 100% of what I coded.
 
 **Link to work:** Commit linked [here](https://github.com/Mindstormer619/webgl-experiments/commit/bda740acb3c19f8678864dc6cbad67be259dc4d0).
+
+----
+
+### Day 12: January 16, 2017
+
+**Today's Progress:** Made a swinging mouse-controllable cylinder thingy using ThreeJS. Halfway there for the main project I'm aiming to complete!
+
+**Thoughts:** This was fairly easy. I'm gonna spend some time reading more tutorials, docs and blogs to try and figure out exactly what goes into making ThreeJS models look exactly the way I want them to. Also there's physics to worry about, which I'll have to look into.
+
+But yeah, today's work specifically was pretty damn simple. Hopefully I can get a full prototype of what I want to make ready by next week.
+
+**Link to work:** Commit linked [here](https://github.com/Mindstormer619/webgl-experiments/commit/10a394ce40ddeee3e54fd8b70b8b3ad2f0c15744).
+
+Here's what it looks like in action:
+
+![Simple movable rod](http://i.imgur.com/mRfVwDU.jpg)
+
+Yeah, I know, it looks like nothing much. The actual running thing is slightly more impressive :grin:
+
+----
