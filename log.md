@@ -213,3 +213,19 @@ Here's what it looks like in action:
 Yeah, I know, it looks like nothing much. The actual running thing is slightly more impressive :grin:
 
 ----
+
+### Day 13: January 17, 2017
+
+**Today's Progress:** Solved a problem from Reddit's [r/dailyprogrammer](https://reddit.com/r/dailyprogrammer) instead of that usual project I'm working on. Good to change things up once in a while.
+
+The question is [here](https://www.reddit.com/r/dailyprogrammer/comments/5llkbj/2017012_challenge_298_easy_too_many_parentheses/).
+
+**Thoughts:** This problem was... interesting. Not too difficult, but it's definitely not what I would call an "easy" problem, as the question maker has marked it. Spent a good half hour thinking about how to get at the solution and whiteboarding various approaches. Or probably I'm just not as good at it as others are.
+
+![shrug](http://i.imgur.com/DGCDjV3.jpg)
+
+I *am* really happy with the way I approached the problem though. In hindsight it still seems like the most logical way to tackle the problem, so that's that. I'll add an explanation readme to the solution gist sometime later.
+
+**Link to work:** Solution is [in this gist](https://gist.github.com/Mindstormer619/5fc6c558138546fd90fc3c5bfdeec023). Hit me up directly if you want to discuss it. Would recommend tackling it without looking at the solution first.
+
+----
