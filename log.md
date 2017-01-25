@@ -229,3 +229,18 @@ I *am* really happy with the way I approached the problem though. In hindsight i
 **Link to work:** Solution is [in this gist](https://gist.github.com/Mindstormer619/5fc6c558138546fd90fc3c5bfdeec023). Hit me up directly if you want to discuss it. Would recommend tackling it without looking at the solution first.
 
 ----
+
+### Day 14: January 25, 2017
+
+I'm back after a _loooong_ break! My laptop hard disk met with a nice little dose of catastrophic failure and filesystem corruption, so here I am after several (quite fruitless) attempts at recovery, `chkdsk`ing and finally shredding all the HDD contents and installing a fresh Ubuntu image. Whew.
+
+Technically this is Day 15: I *did* work on something on the night my HDD decided to die on me. But I don't exactly remember what it was, and I have a feeling it wasn't much, so I'm not counting it.
+
+**Today's Progress:** Made some progress with the two-person socket communication that's instrumental for `ult-ttt` to work. It's nothing complete yet, but at least I have a clear picture of things moving ahead.
+
+**Thoughts:** Today I spent a good deal of time rubberducking and whiteboarding stuff, and it helped immensely in clarifying my own thoughts about how to proceed. I've listed out (albeit a bit haphazardly) what I have on my general approach to this. The full thing isn't completely fleshed out yet, but that's just a matter of time.
+
+**Link to work:** Gist linked here: [Two Person Socket code](https://gist.github.com/Mindstormer619/6bf5a2a9ca7a4f98da24712fb6512645). I'll commit and push it when it gets a bit more complete so I can actually test things.
+
+----
+
