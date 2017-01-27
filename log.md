@@ -272,7 +272,7 @@ Again, I cannot overstate how great this felt. Just seeing the thing actually wo
 
 I'm gonna try embedding a video demo here below. Dunno if Github markdown supports embeds.
 
-<iframe width="630" height="355" src="https://www.useloom.com/embed/f9e94050e4dc11e6b14c091dee11d2d4" frameborder="0" allowfullscreen></iframe>
+_Okay turns out it doesn't. The video demo link is [here](https://www.useloom.com/share/f9e94050e4dc11e6b14c091dee11d2d4)._
 
 ----
 
