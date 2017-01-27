@@ -244,3 +244,35 @@ Technically this is Day 15: I *did* work on something on the night my HDD decide
 
 ----
 
+### Day 15: January 27, 2017
+
+Okay, I totally skipped yesterday. I have no excuse, I simply got caught up with other stuff and totally forgot about my code hour till it was way too late. I had a couple hours of coding done in the morning yesterday, but that's part of a project I consider "work" and not something that I personally *want* to do, so I'm not counting that. So yeah, I did skip a day for pretty much no reason. This will never happen again.
+
+**Today's Progress:** Today I had simply *epic* progress. I completed a working two-person communication system using websockets! This feels so great.
+
+**Thoughts:**
+
+So yeah, I found that once I get into the swing of things, I can really get immersed in the process. Like I spent two entire hours on this without realizing it. Getting something to actually *work* gives you a great rush. I feel more pumped than I have anytime this whole week :)
+
+*aside*
+
+Shortly before I started today, I went on to find a good Pomodoro timer for Ubuntu. I had [Tomighty](http://tomighty.org/) installed on my previous system, but it turns out (to my great chagrin) that Tomighty is offered on Windows... and Mac. No Linux. Great. The only thing worse than switching OSes is not being able to find software that was on your previous OS. (Speaking of which, if someone can get me Notepad2-mod on Linux, I will be *extremely* thankful.)
+
+The great thing is I finally found this: [Gnome Pomodoro Timer](http://gnomepomodoro.org/). This works fantastically... probably even better than Tomighty did. I really love the neat and clean visuals, and the general simplicity of the app (which was what attracted me to Tomighty in the first place). Also it's got a great bird-chirping thing going on when the timer is on which is really nice ambient music to sit and code to.
+
+*/aside*
+
+All right, back to the regularly scheduled update. Yesterday I felt pretty terrible about myself about totally forgetting to do this. I was pretty sure I had reached this nice habit-forming state now. I guess the tendency to do this late at night and the whole week that I missed due to my machine crapping out took their general toll and I just, well, forgot.
+
+Well, at least to myself, I made it up today. Did quite a bit of proper prototyping and got a nice working two-person socket communication system. This system is instrumental to the Ultimate Tic Tac Toe game that I want to create. I need to clean up the code and make it usable, but hey, at least I know that the general principle works now, and I can go ahead with the actual system.
+
+Again, I cannot overstate how great this felt. Just seeing the thing actually working after numerous different logs and debug sessions... it felt seriously great.
+
+**Link to work:** Please do check it out! The commit is [here](https://github.com/Mindstormer619/ult-ttt/commit/46310a336855246b92479ac1cbff30e6b3620854). Or you could just go to https://github.com/Mindstormer619/ult-ttt and navigate to the `proto` branch. Do a normal `npm install` and run the server. You should be able to communicate between two different browser windows.
+
+I'm gonna try embedding a video demo here below. Dunno if Github markdown supports embeds.
+
+<iframe width="630" height="355" src="https://www.useloom.com/embed/f9e94050e4dc11e6b14c091dee11d2d4" frameborder="0" allowfullscreen></iframe>
+
+----
+
