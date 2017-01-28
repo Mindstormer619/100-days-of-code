@@ -276,3 +276,13 @@ _Okay turns out it doesn't. The video demo link is [here](https://www.useloom.co
 
 ----
 
+### Day 16: January 28, 2017
+
+**Today's Progress:** Did some code-review and documentation work for a project today. Not too interesting, not quite complete, but it's necessary stuff.
+
+**Thoughts:** This is part of an extensive refactor on a project I'm working on. Each time I work on refactoring codebases, I begin to get how much work it actually is. It's something that appears simple at the beginning, but actually isn't easy to measure with respect to how long it's gonna take to complete.
+
+**Link to work:** Unfortunately it's in a private repository as of right now (and I haven't committed those changes yet, they're still very much in progress.) I'll post the update here after the repo goes public.
+
+----
+
