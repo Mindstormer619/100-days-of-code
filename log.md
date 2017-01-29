@@ -286,3 +286,23 @@ _Okay turns out it doesn't. The video demo link is [here](https://www.useloom.co
 
 ----
 
+### Day 17: January 29, 2017
+
+**Today's Progress:** More documentation and code reviewing. This can go on for a while; that project is a fairly large one. Also set up and played around with [autosub](https://github.com/agermanidis/autosub).
+
+**Thoughts:** Got a nice solid two hours in today. Pomodoro timers are so darn useful.
+
+I'm currently examining and documenting a database schema and associated models. Did you know that PHPMyAdmin has an excellent DB Designer tool that lets you visualize your database with all its fields and relations, and can also generate a one-click report of the entire thing? I didn't.
+
+Databases are tricky things to refactor. Schema refactoring often means writing new migrations that maintain integrity of the existing data and don't cause any data to disappear. Also it gets trickier when there are more tables because you have to basically check every pair of tables for possible relationships (making it a quadratic-time check). Isn't gonna be too simple.
+
+The autosub thing is for another project of mine (yes, that's a lot of projects. I have even more lined up lol). Today all I did was play around with it, by giving it some audio files that I recorded using [Audacity](http://www.audacityteam.org/). It did way better than I expected it to perform. Seriously fast too.
+
+I fully intend to read and understand its source code over the coming week or so. Updates, as usual, will be here.
+
+**Link to work:** Sadly, no link today as well. A lot of the stuff I do isn't always open-source because of other constraints. But okay, my proof-of-work is to be a matter of public record, so here's a screenshot of our issues page at the moment.
+
+![Issues Page](http://i.imgur.com/ZnlnV6i.png)
+
+----
+
