@@ -306,3 +306,19 @@ I fully intend to read and understand its source code over the coming week or so
 
 ----
 
+### Day 18: January 30, 2017
+
+**Today's Progress:** Worked with figuring out and processing XML output from YouTube's timedtext automatic English captions. I think it worked :)
+
+**Thoughts:** Using Python's XML processor wasn't too difficult. Most of the time went in examining the XML file and figuring out its structure so I could use what looked like it was useful out of it.
+
+I took the output of this hilarious video: [STAR\_'s GTA: I Like Killing Jerma](https://youtu.be/dUWEnhDR-88).
+
+This is for the same project as the autosub thing.
+
+**Link to work:** Here's a screenshot of my final Python code and the XML file after quite a bit of tinkering:
+
+![Automatic English caption processing](http://i.imgur.com/KEl79pQ.jpg)
+
+----
+
