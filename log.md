@@ -10,25 +10,6 @@
 
 **Link to work:** 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
 
 ### Day 1: January 3, 2017
@@ -322,3 +303,19 @@ This is for the same project as the autosub thing.
 
 ----
 
+### Days 19-20: January 31 & February 1, 2017
+
+**Today's Progress:** Okay, I pretty much forgot to update this log yesterday. What I did today and yesterday are a part of a single project. It involved creating an admin panel with various database access routes for a site I made for a college event. Pretty intensive work. Took *several* hours over the past couple days.
+
+**Thoughts:**
+
+Generally, this is a project that I don't count, because it's something I consider "work" most of the time, and as per the 100DaysOfCode rules, you aren't supposed to count code you write at work. However, the past couple days have been a bit different and I'm counting it because...
+
+1. I've been pretty much totally swamped by this (and one other project. Yes, that's a lot of projects. I currently have five going on simultaneously.), so I haven't had any time to code anything else. Yes, I did spend some time doing other hobbies and stuff, but the thing with coding is that you can't just do it *anytime*, while you're tired or not in the right frame of mind. Code I've produced during those times have almost always required a rewrite.
+2. Contrary to the other days on which I code this project, I did learn something (or rather re-learnt something). Turns out I had forgotten about mass assignment vulnerabilities in web development, as well as Express middleware, so these past couple days let me relearn those. I also learnt about hooks and instance methods in Sequelize, which helped me develop my own basic code for protected fields in database models.
+
+So yeah, that's about it. It was a productive couple of days, all things considered.
+
+**Link to work:** Unfortunately, this is closed-source at the moment too. It will be open after the event ends, after which I'll link it here. But here's a quick commit shortlog of all the commits I made over the last couple of days.
+
+![Commits in the last couple days](http://i.imgur.com/EtsbRw6.png)
