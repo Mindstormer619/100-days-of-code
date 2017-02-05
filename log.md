@@ -319,3 +319,19 @@ So yeah, that's about it. It was a productive couple of days, all things conside
 **Link to work:** Unfortunately, this is closed-source at the moment too. It will be open after the event ends, after which I'll link it here. But here's a quick commit shortlog of all the commits I made over the last couple of days.
 
 ![Commits in the last couple days](http://i.imgur.com/EtsbRw6.png)
+
+----
+
+### Day 21: February 5, 2017
+
+_Was traveling for the past three days._
+
+**Today's Progress:** Back on processing captions of YouTube videos! Today I tried figuring out the general structure, and perform a few tests and analysis on YouTube captioning content.
+
+**Thoughts:** Working with Python for tasks like this is great fun. I _highly highly highly recommend_ the excellent software by [Jupyter](http://jupyter.org/), especially the Notebook application, for easy development and documentation of Python scripts and projects.
+
+Learnt how to work properly with the XML module in Python, and also gained some insight into what YouTube's captioning works. Whatever I've figured for now is documented in the notebook.
+
+**Link to work:** Notebook viewable at [this nbviewer link](https://nbviewer.jupyter.org/urls/gist.githubusercontent.com/Mindstormer619/2207b5280856866bd231df8b54b81cba/raw/916d0f7b404e4ba7c0198ab44e6b307f3709d7d6/youtube-timedtext-processing.ipynb).
+
+----
