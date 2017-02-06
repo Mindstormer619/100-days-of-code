@@ -335,3 +335,15 @@ Learnt how to work properly with the XML module in Python, and also gained some 
 **Link to work:** Notebook viewable at [this nbviewer link](https://nbviewer.jupyter.org/urls/gist.githubusercontent.com/Mindstormer619/2207b5280856866bd231df8b54b81cba/raw/916d0f7b404e4ba7c0198ab44e6b307f3709d7d6/youtube-timedtext-processing.ipynb).
 
 ----
+
+### Day 22: February 6, 2017
+
+**Today's Progress:** This work is part of an upcoming NLP assignment. Since I learnt something while doing it, I'm including it here.
+
+Learnt about a couple NLP-related concepts, like TTR and Zipf's Law while on this. Also learnt how to work with generators on Python.
+
+**Thoughts:** Generators are a bit tricky to understand on first try. They're like functions that return, but _don't_. I guess I have the hang of it now though.
+
+**Link to work:** [Jupyter notebook here](https://nbviewer.jupyter.org/urls/gist.githubusercontent.com/Mindstormer619/b8f4cd43d04150d5b27761aca967e7ab/raw/c04d2e1efd99c2fe339bd4c09ecdc5eeb9d633cb/nlp-stats.ipynb).
+
+----
