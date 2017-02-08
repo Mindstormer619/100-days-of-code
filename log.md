@@ -347,3 +347,29 @@ Learnt about a couple NLP-related concepts, like TTR and Zipf's Law while on thi
 **Link to work:** [Jupyter notebook here](https://nbviewer.jupyter.org/urls/gist.githubusercontent.com/Mindstormer619/b8f4cd43d04150d5b27761aca967e7ab/raw/c04d2e1efd99c2fe339bd4c09ecdc5eeb9d633cb/nlp-stats.ipynb).
 
 ----
+
+### Day 23: February 7, 2017
+
+_Filling in for yesterday. Was a bit too tired to fill in the log._
+
+**Today's Progress:** Completed some more from the NLP assignment. *Implemented* Zipf's law, for which I had to revisit matplotlib, and learnt and coded verification of Heap's Law. Also documented the whole thing.
+
+**Thoughts:** Matplotlib is fun lol. Also Jupyter Notebook is the greatest thing to ever be invented.
+
+**Link to work:** [Updated notebook](https://nbviewer.jupyter.org/urls/gist.githubusercontent.com/Mindstormer619/b8f4cd43d04150d5b27761aca967e7ab/raw/4ba505623ae954607327b3f24f106fd2872bd144/nlp-stats.ipynb).
+
+----
+
+### Day 24: February 8, 2017
+
+**Today's Progress:** Today was 100% reading source code and writing documentation for an upcoming refactor. This went on for a solid four Pomodoros, or two hours. So that's 200% reading source code, I guess :)
+
+**Thoughts:** So this is part of that same large codebase refactor I was talking about back on Day 16. We're in the phase of listing out as many issues as we can and making sure our design decisions are agreed upon and documented before moving on to the next stage of refactoring, since the only thing worse than having to rewrite your code is having to rewrite it *twice*.
+
+This is likely gonna take some time. Along with the refactor itself, we're looking at a solid month here.
+
+**Link to work:** Unfortunately, currently private repo. Here's a screenshot of part of the documentation though:
+
+![Refactoring notes page](http://i.imgur.com/RJjq7ZL.png)
+
+----
