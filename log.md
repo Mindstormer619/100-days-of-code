@@ -373,3 +373,17 @@ This is likely gonna take some time. Along with the refactor itself, we're looki
 ![Refactoring notes page](http://i.imgur.com/RJjq7ZL.png)
 
 ----
+
+### Day 25, February 9, 2017
+
+_A quarter way there WOOOOOHOOOOOO_
+
+**Today's Progress:** Implemented the Levenshtein Distance algorithm in Java, following a lot of clean-code principles I learnt in Robert C Martin's book, appropriately titled [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882).
+
+**Thoughts:** This took a while, but felt GREAT. It's been a while since I've felt this good writing code because this was the first time in a while I have seriously made an attempt to write the code in a clean manner.
+
+I figured I'd implement this because it's been a while since I approached some base algorithms, and I read this in my NLP subject syllabus so I decided _why not, it's quick to write anyway_.
+
+**Link to work:** Please do check it out (I love showing off good code, _especially_ if it's written by me): [EditDistance.java](https://gist.github.com/Mindstormer619/55fb4883ac454d154c08252125422c56). Also please send any praise/feedback/improvements/suggestions/criticism [my way](https://t.me/Mindstormer619).
+
+----
