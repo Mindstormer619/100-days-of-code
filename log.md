@@ -387,3 +387,15 @@ I figured I'd implement this because it's been a while since I approached some b
 **Link to work:** Please do check it out (I love showing off good code, _especially_ if it's written by me): [EditDistance.java](https://gist.github.com/Mindstormer619/55fb4883ac454d154c08252125422c56). Also please send any praise/feedback/improvements/suggestions/criticism [my way](https://t.me/Mindstormer619).
 
 ----
+
+### Day 26: February 10, 2017
+
+**Today's Progress:** More documentation work and issue creation. We're up to 19 open issues now, most of which target refactoring and pretty major changes.
+
+**Thoughts:** Documentation work is pretty tiring but also pretty rewarding. I like going over old documentation and commit messages from time-to-time and reading about my own development process and how that's changed over time.
+
+**Link to work:** Again, private repository. Got this sneak peek of part of the documentation I wrote though.
+
+![Part of the refactoring notes](http://i.imgur.com/QzJZ9YM.png)
+
+----
