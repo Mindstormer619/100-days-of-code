@@ -399,3 +399,15 @@ I figured I'd implement this because it's been a while since I approached some b
 ![Part of the refactoring notes](http://i.imgur.com/QzJZ9YM.png)
 
 ----
+
+### Day 27: February 18, 2017
+
+_Back after exam week! It's good to be back!_
+
+**Today's Progress:** More documentation work, same site. There's a *lot* to work on.
+
+**Thoughts:** The more I read through the source, the more I see to fix it. Reading Robert Martin's Clean Code helped immensely. I'm seeing myself reason more about my code than ever before.
+
+**Link to work:** ¯\\_(ツ)_/¯
+
+----
