@@ -408,6 +408,6 @@ _Back after exam week! It's good to be back!_
 
 **Thoughts:** The more I read through the source, the more I see to fix it. Reading Robert Martin's Clean Code helped immensely. I'm seeing myself reason more about my code than ever before.
 
-**Link to work:** ¯\\_(ツ)_/¯
+**Link to work:** ¯\\\_(ツ)\_/¯
 
 ----
