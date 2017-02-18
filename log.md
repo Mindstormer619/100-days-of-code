@@ -400,7 +400,7 @@ I figured I'd implement this because it's been a while since I approached some b
 
 ----
 
-### Day 27: February 18, 2017
+### Day 27: February 17, 2017
 
 _Back after exam week! It's good to be back!_
 
@@ -411,3 +411,16 @@ _Back after exam week! It's good to be back!_
 **Link to work:** ¯\\\_(ツ)\_/¯
 
 ----
+
+## Day 28: February 18, 2017
+
+**Today's Progress:** Something different today. Started learning [Vue.js](https://vuejs.org) today! Got as far as completing the Getting Started guide.
+
+**Thoughts:** Vue is definitely _very_ interesting. Seems well-worth checking out. You'll see more of it here soon.
+
+**Link to work:** There's [this fiddle](https://jsfiddle.net/0vu041qw/1/), and then there's also this below. Enjoy.
+
+![kUSj.png](https://uploadit.us/images/kUSj.png)
+
+----
+
