@@ -424,3 +424,14 @@ _Back after exam week! It's good to be back!_
 
 ----
 
+## Day 29: February 19, 2017
+
+**Today's Progress:** Made some good progress towards this other project I'm working on, involving transcripts, captioning and alignment.
+
+I'll add more details here later. So far it's pretty much rough scripting work so it's not exactly well documented. This is big stuff though.
+
+**Thoughts:** Well, it felt great getting something working that I've been thinking about different approaches for about a month now.
+
+**Link to work:** [Notebook link here](http://nbviewer.jupyter.org/urls/gist.githubusercontent.com/Mindstormer619/2207b5280856866bd231df8b54b81cba/raw/350adb5e8a143357674ae23c4af0542fcb0e0a55/youtube-timedtext-processing.ipynb).
+
+----
