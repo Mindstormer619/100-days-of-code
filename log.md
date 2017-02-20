@@ -435,3 +435,14 @@ I'll add more details here later. So far it's pretty much rough scripting work s
 **Link to work:** [Notebook link here](http://nbviewer.jupyter.org/urls/gist.githubusercontent.com/Mindstormer619/2207b5280856866bd231df8b54b81cba/raw/350adb5e8a143357674ae23c4af0542fcb0e0a55/youtube-timedtext-processing.ipynb).
 
 ----
+
+## Day 30: February 20, 2017
+
+**Today's Progress:** Started on the path for resolving issues over that project I was documenting for several days. Today involved getting some integration tests to work.
+
+**Thoughts:** After-the-fact testing is a little painful to implement :(
+
+**Link to work:** Private repo for now. Will update links later.
+
+----
+
