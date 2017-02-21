@@ -446,3 +446,12 @@ I'll add more details here later. So far it's pretty much rough scripting work s
 
 ----
 
+## Day 31: February 21, 2017
+
+**Today's Progress:** Wrested for about three hours with setting up some performance improvements on aforementioned tests (see Day 30). Unfortunately, it doesn't seem like I got anywhere.
+
+**Thoughts:** Laravel's dependency container seems to be fighting with my PHPUnit for some reason. Hopefully after a good rest I'll be able to see exactly what's wrong.
+
+**Link to work:** --
+
+----
