@@ -456,7 +456,7 @@ I'll add more details here later. So far it's pretty much rough scripting work s
 
 ----
 
-# Day 32: February 22, 2017
+## Day 32: February 22, 2017
 
 **Today's Progress:** Okay, got those perf improvements in!
 
