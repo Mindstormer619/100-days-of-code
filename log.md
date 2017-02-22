@@ -455,3 +455,19 @@ I'll add more details here later. So far it's pretty much rough scripting work s
 **Link to work:** --
 
 ----
+
+# Day 32: February 22, 2017
+
+**Today's Progress:** Okay, got those perf improvements in!
+
+**Thoughts:** Bash is the greatest thing ever made. Ever.
+
+Man this took me so much longer than it should have. After trying a lot more shit in the direction of getting the framework dependencies loaded before the test `@beforeClass` methods started executing, and failing miserably, all I did was write a simple 3-line script. Problem solved (at least for now).
+
+Tests now run in 41 seconds, down from 4 minutes. That's *huge*.
+
+Also did some other renaming/refactoring stuff.
+
+**Link to work:** --
+
+----
