@@ -471,3 +471,17 @@ Also did some other renaming/refactoring stuff.
 **Link to work:** --
 
 ----
+
+## Day 33: February 23, 2017
+
+_One thirds there!_
+
+**Today's Progress:** Reviewed a lot of code, wrote some more tests
+
+**Thoughts:** Long live the Code Review feature on Github! A most excellent addition.
+
+**Link to work:** Screenshot of a part of the review:
+
+![uySP.png](https://uploadit.us/images/uySP.png)
+
+----
