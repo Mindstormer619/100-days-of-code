@@ -485,3 +485,17 @@ _One thirds there!_
 ![uySP.png](https://uploadit.us/images/uySP.png)
 
 ----
+
+## Day 34-35: February 24 and 25, 2017
+
+**Today's Progress:** One very complex test, lots of database wrangling, and one site deploy that gave me a nice case of the nerves. Many, many hours.
+
+**Thoughts:** I would like to say I have been writing PHP code. I would, however, be more inclined to say that I have been waging a war against PHP. PHP is so, so bad to work with. By God, so bad. Even Laravel, being quite beautiful, can't help you sometimes. It's painful.
+
+It's been a stressful couple of days. I need some sleep.
+
+**Link to work:** Here's a screenshot:
+
+![bPQMy.png](https://uploadit.us/images/bPQMy.png)
+
+----
