@@ -499,3 +499,17 @@ It's been a stressful couple of days. I need some sleep.
 ![bPQMy.png](https://uploadit.us/images/bPQMy.png)
 
 ----
+
+## Day 36: February 26, 2017
+
+**Today's Progress:** Okay, so that test still isn't passing. Today was one long debugging session.
+
+**Thoughts:** It's not solved yet. I think the error I'm getting is due to some weird differences between sqlite and MySQL in working with data.
+
+Will explore more and come to a conclusion tomorrow.
+
+**Link to work:** Screenshot of the failure:
+
+![screen](https://cdn.img42.com/6b0e34d6582f1ab1184f131875b6f1ec.png)
+
+----
