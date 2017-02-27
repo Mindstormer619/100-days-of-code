@@ -513,3 +513,15 @@ Will explore more and come to a conclusion tomorrow.
 ![screen](https://cdn.img42.com/6b0e34d6582f1ab1184f131875b6f1ec.png)
 
 ----
+
+## Day 37: February 27, 2017
+
+**Today's Progress:** Fixed that bug! *YAAAAAAAAAAAAAAAAY!* Found another! *NOOOOOOOOOOOOOOOO!* Pretty sure I know the cause of it! *OKAYYYYYYYYYY!*
+
+**Thoughts:** Good god debugging can be a gigantic pain in the ass. It gets especially worse when you're trying to use a database which you can only interact with via the command line, a half-baked language you don't really understand, and a gazillion different files and DB versions that you keep mixing up. Don't judge me, there've been a lot of changes recently okay!
+
+**Link to work:** Now this is a tricky one. While the test may *look* like it's passing, it's actually not working at all :)
+
+![test or not?](https://img42.com/jHOGo+)
+
+----
