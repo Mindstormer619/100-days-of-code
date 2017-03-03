@@ -525,3 +525,18 @@ Will explore more and come to a conclusion tomorrow.
 ![test or not?](https://img42.com/jHOGo+)
 
 ----
+
+_Note: Apologies! I've been pretty swamped by a lot of stuff these past three days. We've had a lot of stuff happening in college, and I've been in a lot of meetings so most days begin with me running off somewhere and end with returning to the room tired as hell. I've done bits and pieces of code over the last few days, nothing serious or targeted to an hour, so I'm not gonna count it. It's on from today!_
+
+
+## Day 38: February 28, 2017
+
+**Today's Progress:** Finished that damn test. It's a long, complex integ test that checks a fairly major important portion of our application logic.
+
+**Thoughts:** Testing is quite fun! I'm gonna get my feet wet for the first time writing unit tests for a project that *I* maintain (I did write tests at the last internship I did, but that was easier because there already *were* tests that I could get ideas from and I didn't have to think about things like test architecture and stuff.)
+
+**Link to work:** Here's a screenshot of the test as it runs now. It uses this database file, which it downloads automatically if it doesn't have the file locally, off a static server (I gitignore all sqlite files). Then it just proceeds to run the test.
+
+![Test with wget download db](https://img42.com/oUSLz+)
+
+----
