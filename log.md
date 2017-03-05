@@ -529,7 +529,7 @@ Will explore more and come to a conclusion tomorrow.
 _Note: Apologies! I've been pretty swamped by a lot of stuff these past three days. We've had a lot of stuff happening in college, and I've been in a lot of meetings so most days begin with me running off somewhere and end with returning to the room tired as hell. I've done bits and pieces of code over the last few days, nothing serious or targeted to an hour, so I'm not gonna count it. It's on from today!_
 
 
-## Day 38: February 28, 2017
+## Day 38: March 3, 2017
 
 **Today's Progress:** Finished that damn test. It's a long, complex integ test that checks a fairly major important portion of our application logic.
 
@@ -538,5 +538,15 @@ _Note: Apologies! I've been pretty swamped by a lot of stuff these past three da
 **Link to work:** Here's a screenshot of the test as it runs now. It uses this database file, which it downloads automatically if it doesn't have the file locally, off a static server (I gitignore all sqlite files). Then it just proceeds to run the test.
 
 ![Test with wget download db](https://img42.com/oUSLz+)
+
+----
+
+## Day 39: March 4, 2017
+
+**Today's Progress:** Had a long architecture discussion with some teammates for an upcoming project.
+
+**Thoughts:** Architecture discussions are *long*. We're nowhere close to mapping out the entire system. I'm pretty bad at estimating times lol.
+
+**Link to work:** --
 
 ----
