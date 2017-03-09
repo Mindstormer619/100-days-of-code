@@ -554,3 +554,13 @@ _Note: Apologies! I've been pretty swamped by a lot of stuff these past three da
 _I've been out on a trip for the past two days. I'd update something for today but it was mostly just meetings and reading documentation and figuring out how OAuth2 works and all that. Regular updates starting tomorrow._
 
 ----
+
+## Day 40: March 9, 2017
+
+**Today's Progress:** Read and implemented some basics of unit testing in Android. Still gotta run them and see if that works (Android Studio took a _loooong_ time to download. Setup is still not done.)
+
+**Thoughts:** After this, I gotta take a look at TDD on Android. This will be the first time I'm seriously implementing TDD. In general, when I write tests, I write them at the same time as the functionality, but I've never made a conscious effort to write the tests _before_ the code. This will be another first!
+
+**Link to work:** Nothing yet. I'll push a simple demo once I'm actually done and have something working.
+
+----
