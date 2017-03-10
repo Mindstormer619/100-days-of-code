@@ -564,3 +564,18 @@ _I've been out on a trip for the past two days. I'd update something for today b
 **Link to work:** Nothing yet. I'll push a simple demo once I'm actually done and have something working.
 
 ----
+
+## Day 41: March 10, 2017
+
+**Today's Progress:** More basics of Android unit testing. Also read up on and went through a bunch of code examples on Dagger 2, a dependency injection framework for Android.
+
+**Thoughts:** Android Studio takes an *insane* amount of time to start up the first time. Google really needs to fix that. I have a shitty internet connection and Studio had to download this 85 MB Gradle installation *twice* because it failed once in the middle. Gah I am so pissed.
+
+Apart from that, unit testing on Android seems to be fun. I'm still confused as to how I get TDD on a compiled language like Java. Probably I leave the implementations empty the first time around? I dunno. (Seems like it would be confusing on the return types.)
+
+**Link to work:** Well, this is essentially what I'm running: https://gist.github.com/Mindstormer619/5cdee19d9d3ae83a80c0a4cdd2edabac
+
+The second test is mine, and it works! _YAY!_
+
+----
+
