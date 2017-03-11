@@ -579,3 +579,12 @@ The second test is mine, and it works! _YAY!_
 
 ----
 
+## Day 42: March 11, 2017
+
+**Today's Progress:** Conducted a class on basics of Android unit tests. Some live coding was involved.
+
+**Thoughts:** I got to try out some proper TDD right during the class today. It's surprisingly easy. That was a bit surprising.
+
+**Link to work:** [Code that was written during the class](https://github.com/Mindstormer619/UnitTesty).
+
+----
