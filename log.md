@@ -588,3 +588,15 @@ The second test is mine, and it works! _YAY!_
 **Link to work:** [Code that was written during the class](https://github.com/Mindstormer619/UnitTesty).
 
 ----
+
+## Day 43: March 12, 2017
+
+**Today's Progress:** Back to a bit of unit testing on *Laravel* (yes, back to PHP. Yes, I'm not happy about it either.) This is gonna be a piece of work.
+
+**Thoughts:** Turns out that super-large project I was working on is mostly untestable. It's time for some real merciless refactoring to convert literally *everything* to IoC.
+
+![Invert ALL the dependencies!](https://i.imgflip.com/1la3r6.jpg)
+
+**Link to work:** Nothing for now. Will put in some screenshots when I have something substantial.
+
+----
