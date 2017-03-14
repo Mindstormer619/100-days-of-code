@@ -600,3 +600,15 @@ The second test is mine, and it works! _YAY!_
 **Link to work:** Nothing for now. Will put in some screenshots when I have something substantial.
 
 ----
+
+_Was a bit too tired yesterday to get anything done. Sorry about that._
+
+## Day 44: March 14, 2017
+
+**Today's Progress:** More unit testing. While we're at it, why not try Node, I thought. Hence, introducing [Mocha](http://mochajs.org).
+
+**Thoughts:** Didn't manage to get much done. 2 am coding kinda sucks.
+
+**Link to work:** Again, nothing yet. I'm at this stage where I have too many projects to juggle at once. Will post updates real soon, promise.
+
+----
