@@ -612,3 +612,13 @@ _Was a bit too tired yesterday to get anything done. Sorry about that._
 **Link to work:** Again, nothing yet. I'm at this stage where I have too many projects to juggle at once. Will post updates real soon, promise.
 
 ----
+
+## Day 45: March 15, 2017
+
+**Today's Progress:** Figured out how asynchronous unit tests (using Promises: [bluebird](http://bluebirdjs.com)'s the boss) work on Mocha. Implemented a simple test for a simple file stat service.
+
+**Thoughts:** Mocha claims to be "BDD" by default. Now I'm not entirely sure what the difference between something test-driven and something behavior-driven is. Let's find out, I suppose.
+
+**Link to work:** Boy have I got a link for you today. [Here's the repo](https://github.com/Mindstormer619/NodeUnitTests). Watch for further updates.
+
+----
