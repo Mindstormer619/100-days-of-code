@@ -622,3 +622,19 @@ _Was a bit too tired yesterday to get anything done. Sorry about that._
 **Link to work:** Boy have I got a link for you today. [Here's the repo](https://github.com/Mindstormer619/NodeUnitTests). Watch for further updates.
 
 ----
+
+## Day 46-47: March 16 & 17, 2017
+
+**Today's Progress:** Wrote more tests. Today I learnt how to write Promise-based tests for event-based callbacks in Node. I tried getting in some stuff with SinonJS as well (mocks, stubs and spies), but didn't get very far.
+
+**Thoughts:** Not so sure about whether the *way* I've implemented it is *the* perfect way or not. But hey, at least it works and it's all tested!
+
+Also, this whole update over yesterday and today happened via a wholly TDD-based process, where the tests were actually written first, and failure was encountered at testing time (the *ping*), and made to pass while adding code (the *pong*). That feels really great; I feel like I've actually learnt something super-useful.
+
+More importantly, with SinonJS, I didn't have time to get around to reading the documentation as much. I've had more classes than I expected this close to my tests. Sinon's documentation is quite extensive, but I had a little look-see and it seems like the kind of stuff you could expect to read and learn a lot from. Really looking forward to that.
+
+I've also started reading a Packt book on TDD with Java, so that's that. Full steam ahead with testing week!
+
+**Link to work:** Link is the same as yesterday. Check the commits on the repo.
+
+----
