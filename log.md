@@ -638,3 +638,13 @@ I've also started reading a Packt book on TDD with Java, so that's that. Full st
 **Link to work:** Link is the same as yesterday. Check the commits on the repo.
 
 ----
+
+## Day 48: March 24, 2017
+
+**Today's Progress:** Back after my cycle tests! Today I spent a *long long time* struggling with build systems as I tried so much to get Gradle and Eclipse working with Dagger 2.
+
+**Thoughts:** Eclipse sucks. Gradle sucks. Build systems suck. Everything sucks.
+
+**Link to work:** No link today; I've struggled against this for hours and I have not managed to get it to compile. Good God this has taken far too long.
+
+----
