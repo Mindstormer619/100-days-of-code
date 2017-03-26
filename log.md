@@ -648,3 +648,17 @@ I've also started reading a Packt book on TDD with Java, so that's that. Full st
 **Link to work:** No link today; I've struggled against this for hours and I have not managed to get it to compile. Good God this has taken far too long.
 
 ----
+
+_Yesterday I conducted another class on unit testing concepts. Didn't write much code apart from some small samples, so not really including it._
+
+## Day 49: March 26, 2017
+
+**Today's Progress:** More struggle with Dagger 2. I think I'm beginning to get some of the concept now.
+
+**Thoughts:** I've finally begun to understand what `@Component` means. Although I will admit that I am a bit on the slow side when it comes to this, still, the Dagger 2 documentation has got to be the hardest-to-follow documentation I have ever seen in my life. I mean look at their "Android" section and tell me if you can understand _one bloody word_ of what they say without having to read literally 100% of every other subsection in the docs. Gawd.
+
+I've written some code but I just cannot seem to get it to run because yes, that build system is still not working. I think I've triangulated the cause, but I cannot seem to find a simple working solution anywhere, for the life of me.
+
+**Link to work:** Apologies, nothing yet. Tomorrow fo' sho'.
+
+----
