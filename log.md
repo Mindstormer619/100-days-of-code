@@ -662,3 +662,19 @@ I've written some code but I just cannot seem to get it to run because yes, that
 **Link to work:** Apologies, nothing yet. Tomorrow fo' sho'.
 
 ----
+
+_Last two days out due to tests._
+
+## Day 50: March 29, 2017
+
+_YAAY HALFWAY THERE! WEEHEEEEEEEEE!_
+
+**Today's Progress:** Found this incredible thing called [Screeps](https://screeps.com). Spent a few hours playing around the tutorial simulator.
+
+**Thoughts:** Screeps is a game where you play a tower-defense like RPG, where you control units called "creeps" by writing real Javascript code. I found this pretty incredibly fun to play.
+
+Apart from that, worked on architecture stuff for a new project, but eh that's boring who wants to hear about that.
+
+**Link to work:** --
+
+----
