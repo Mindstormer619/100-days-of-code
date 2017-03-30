@@ -678,3 +678,17 @@ Apart from that, worked on architecture stuff for a new project, but eh that's b
 **Link to work:** --
 
 ----
+
+## Day 51: March 30, 2017
+
+**Today's Progress:** Went through more code samples for Dagger2. Understood quite properly the concepts of `@Component` and scopes (`@Singleton`, `@Reusable` etc as defined by Dagger). Did not have enough time to try the build though.
+
+**Thoughts:** One very interesting thing about writing code is that, if you want to understand a given code sample, it doesn't matter too much if you build it, compile it, run it or whatnot. *Writing* the code alone seems to be sufficient in helping you understand what the sample is talking about. Probably got to do with the fact that you pay more attention to what's in the snippet when you write out everything.
+
+Well, I've mainly got Dagger subcomponents and Android integration left to understand. Now *that* is guaranteed to be a major pain in the ass.
+
+Sometime soon I'll write an article explaining whatever I've understood about Dagger2 in a manner that's simpler to understand than the convoluted horseshit the documentation is spewing...
+
+**Link to work:** Again, nothing. I've not gotten much *serviceable* code out over the past few days. So far it's mostly involved me opening a quick vim window, setting syntax and typing away, with a quick `ZQ` command to exit without saving at the end of my session. Hopefully I'll have something tomorrow.
+
+----
