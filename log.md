@@ -692,3 +692,17 @@ Sometime soon I'll write an article explaining whatever I've understood about Da
 **Link to work:** Again, nothing. I've not gotten much *serviceable* code out over the past few days. So far it's mostly involved me opening a quick vim window, setting syntax and typing away, with a quick `ZQ` command to exit without saving at the end of my session. Hopefully I'll have something tomorrow.
 
 ----
+
+## Day 52: March 31, 2017
+
+**Today's Progress:** Started out with [Codepath's tutorial to Dagger2 on Android](https://github.com/codepath/android_guides/wiki/Dependency-Injection-with-Dagger-2). Got the build to actually complete on the first try. Thank you Codepath!
+
+Man, I wish I had found this earlier.
+
+**Thoughts:** Not much done in the way of writing code today. I spent way too long trying to parse Dagger's insanely convoluted documentation before giving the hell up. Finally found this (very well-updated) tutorial, and so that's what I'm gonna use.
+
+**Link to work:** Image showing Dagger2 annotations actually compiling without red squigglies:
+
+![Dagger2 no red squigglies](https://img42.com/UZaVw+)
+
+----
