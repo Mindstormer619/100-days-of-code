@@ -706,3 +706,24 @@ Man, I wish I had found this earlier.
 ![Dagger2 no red squigglies](https://img42.com/UZaVw+)
 
 ----
+
+## Day 53: April 1, 2017
+
+**Today's Progress:** Today, I've had no progress whatsoever.
+
+_HAHAHAHAHA FOOLED YUH HYUKHYUKHYUK_
+
+*ahem*
+
+Okay so today was great, I finally have a working goddamn app using Dagger. It isn't much (actually it's hardly *anything*), but it works and it's dependency injected and everything and that is infinite steps away from NOT FREAKING COMPILING, so that's that.
+
+Thank you Codepath for your brilliant guides.
+
+**Thoughts:** I recognize that building an actual application is a whole different ballgame. I have to think about how to organize my modules and scopes and components and subcomponents and injections and whatnot and I will soon be ready to go insane. But at the same time it felt *great* just typing this shit out and watching stuff actually *work* for once and not blow up in my face, ya know?
+
+It's moments like this that motivate a person to keep at his shit. I'll keep at *my* shit now. Thanks for listening.
+
+**Link to work:** Boy-oh-boy I got ya a link today baybee. Repo at https://github.com/Mindstormer619/Dagger2Test. Tell me if it, like, doesn't build and shit.
+
+----
+
