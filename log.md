@@ -727,3 +727,15 @@ It's moments like this that motivate a person to keep at his shit. I'll keep at 
 
 ----
 
+_Was out pretty much the whole day yesterday._
+
+## Day 54: April 4, 2017
+
+**Today's Progress:** Went through Subcomponents from the aforementioned tutorial. Only Subcomponent builders left to go before Dagger2 basics are complete.
+
+**Thoughts:** Subcomponents are still a bit... confusing for me. Hopefully some proper real-life usage will work itself out. I'm still having a little trouble understanding scopes in Dagger.
+
+**Link to work:** Nothing at the moment. PC experienced a minor crash before I could actually build the app, and it's kinda late so I decided to push it to tomorrow (Yes I still have those HDD issues).
+
+----
+
