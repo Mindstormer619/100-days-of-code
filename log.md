@@ -739,3 +739,17 @@ _Was out pretty much the whole day yesterday._
 
 ----
 
+## Day 55: April 5, 2017
+
+**Today's Progress:** Ran into some trouble with Subcomponents over at the tutorial. When I ran the build, it failed. Tried various things for a couple of hours and managed to fix the build (didn't manage to load an APK though).
+
+**Thoughts:** For future reference:
+
++ The `inject(consumer)` function must appear only in the subcomponent, not the parent component, to be compiled.
++ The `@Named(name)` annotation must be present on Module, Component *and* consumer injection site.
+
+Also **do not fire up the Android emulator on your current machine. It WILL crash your laptop.**
+
+**Link to work:** I'll push to the repo by tomorrow afternoon once I can confirm that the APK works as expected.
+
+----
