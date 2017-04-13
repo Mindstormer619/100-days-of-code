@@ -753,3 +753,34 @@ Also **do not fire up the Android emulator on your current machine. It WILL cras
 **Link to work:** I'll push to the repo by tomorrow afternoon once I can confirm that the APK works as expected.
 
 ----
+
+_It's been a while since I updated this page. A few entries from this point will just detail Progress. Full logs will resume from Day 61._
+
+
+## Day 56: April 6, 2017
+
+Implemented the fix that I figured would work. It did. Built an app, everything's working again.
+
+## Day 57-58: April 7 and 8, 2017
+
+Read through Dagger documentation on scopes, and looked through examples. Conducted a short class on Dagger2 for a bunch of juniors.
+
+## Day 59-60: April 9 and 10, 2017
+
+Spent several hours working on updates to my automatic transcript alignment project that I'm working on for my final-year project submission. [Gist](https://gist.github.com/Mindstormer619/7eb8349ca75f4056731cc509a6fae2d8).
+
+_April 11 and 12: I've been really busy with other stuff (review, thesis) involving my final year project, so no updates :(_
+
+----
+
+## Day 61: April 13, 2017
+
+**Today's Progress:**  Made an app to test out scopes with Dagger. It worked the way I thought it would, woohoo! I have finally understood scopes beyond a doubt.
+
+**Thoughts:** I've noticed that the build-time error catching of Dagger2 is an insanely good thing. So many things where you're unsure of what's gonna happen, you can just plug anyway into the DI container. And if it builds, chances are it's gonna run just fine as well.
+
+Also the code is so easy to structure neatly omg.
+
+**Link to work:** https://github.com/Mindstormer619/Dagger2Test
+
+----
