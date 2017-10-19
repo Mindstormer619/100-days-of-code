@@ -1,5 +1,9 @@
 # I've joined the #100DaysOfCode Challenge.
 
+Welcome to the `attempt-2` branch!
+
+So... Attempt 1 did not go too well (due to a lot of things). Hopefully I won't require an Attempt 3 and should be able to see this all the way through. Wish me luck!
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
