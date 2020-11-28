@@ -1,5 +1,9 @@
 # I've joined the #100DaysOfCode Challenge.
 
+I'm livestreaming this entire challenge on Twitch, follow me below.
+
+<a href="http://twitch.tv/Mindstormer619"><img src="http://streambadge.com/twitch/dark/Mindstormer619.png" width="300" height="64" alt="Mindstormer619's Streambadge"></a>
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
