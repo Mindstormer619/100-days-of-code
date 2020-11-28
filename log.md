@@ -1,5 +1,9 @@
 # 100 Days Of Code - Attempt 3 - Log
 
+We're on Attempt 3, and I fully plan to go the distance with this one. No slacking!
+
+I'm livestreaming this _entire_ thing on [Twitch](https://twitch.tv/mindstormer619). Catch me on stream to say hi, ask questions, provide criticism (literally anything goes as long as it's constructive), and learn! 😄
+
 <!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -20,13 +24,48 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: 2020-11-27
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Progress:** 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work:** 
+
+----------
+
 -->
+
+----------
+
+### Day 1: 2020-11-26
+
+**Progress:** Worked on the design approach for the core of Plutus.
+
+**Thoughts:** I'm starting a new project, an expense manager Android app written in Kotlin, a language and environment I'm not completely comfortable with. I actually started some basic setup and code for this a few days prior, but I realized that I hit a roadblock with what I wanted to attempt pretty quickly. I figured that the best way to gain some direction was to plot out a basic user interaction for one of the core aspects of the app.
+
+**Link(s) to work:** https://youtu.be/EvzzWFSnXfg
+
+----------
+
+### Day 2: 2020-11-27
+
+**Progress:** Implemented a regular expression parser for parsing incoming purchase/credit notification messages and extracting useful fields. The regex parser works on the basis of capture groups.
+
+**Thoughts:** The initial implementation is going to be a bit unfriendly to the user, but it allows us to get off the ground quickly. I'll be using an interface which generalizes exactly how a Message Parser is implemented, so we can get more implementations of it later on and allow the user to select at runtime.
+
+**Link(s) to work:** Temporary Twitch VOD is at https://www.twitch.tv/videos/817469850. I'll add the YT link as soon as I'm able to export it.
+
+----------
+
+### Day 3: 2020-11-28
+
+**Progress:** Today I chose to pause the project work and instead spend a couple of hours on [Kotlin Koans](https://play.kotlinlang.org/koans).
+
+**Thoughts:** Since I'm (relatively) new to the nuances of Kotlin, I figured I could spend some time understanding the _innumerable_ language features, and some of its oddities. Kotlin is certainly a language for the experienced programmer.
+
+Found some interesting information about the language, including the fact that SAM-lambda conversions (SAM = _Single Abstract Method_) only work on SAM interfaces, **not** SAM abstract classes.
+
+**Link(s) to work:** Temporary Twitch VOD is at https://www.twitch.tv/videos/818484105. I'll add the YT link as soon as I'm able to export it.
+
+----------
