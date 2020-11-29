@@ -69,3 +69,15 @@ Found some interesting information about the language, including the fact that S
 **Link(s) to work:** Temporary Twitch VOD is at https://www.twitch.tv/videos/818484105. I'll add the YT link as soon as I'm able to export it.
 
 ----------
+
+### Day 4: 2020-11-29
+
+**Progress:** Did another set of the Kotlin katas -- today's were specifically on Collections. After that, I spent a bit of time mapping out the next part of Project Plutus, the transaction mapping (which takes in a set of text components extracted from the message, and maps them to the Transaction object which is to be persisted.)
+
+**Thoughts:** Kotlin has a _ton_ of different features for collections -- all sorts of operations on sorting, mapping, folding (basically `reduce`, except it starts with an initial value instead of the first element of the collection), max/min operations, the works. It's possible to reduce vast amounts of Java code to incredibly concise Kotlin.
+
+Interesting thing I learnt: Java functions cannot be called from the Kotlin side using _named parameters_, because apparently the JVM bytecode is not guaranteed to preserve function parameter names.
+
+**Link(s) to work:** Temporary Twitch VOD is at https://www.twitch.tv/videos/819637072. I'll add the YT link as soon as I'm able to export it.
+
+----------
