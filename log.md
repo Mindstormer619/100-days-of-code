@@ -81,3 +81,15 @@ Interesting thing I learnt: Java functions cannot be called from the Kotlin side
 **Link(s) to work:** Temporary Twitch VOD is at https://www.twitch.tv/videos/819637072. I'll add the YT link as soon as I'm able to export it.
 
 ----------
+
+### Day 5: 2020-11-30
+
+**Progress:** Today I went over another leg of the Kotlin exercises (they call them Koans, but those aren't koans dangit), specifically the one around Properties. Struggled a bit with understanding Delegates, but I get it now. About precisely 1 hour of work.
+
+**Thoughts:** I intended to do a bit more on the main project today, but having shifted to morning streams, I had to cut it off after an hour in order to start my regular work day. Hopefully from tomorrow I'll be able to wake up a bit earlier so I can go on for a bit longer. It's hard switching habits to that of a morning person 😁.
+
+Delegates afforded the most amount of trouble for me. One thing I understood was that a delegate for a mutable property most likely needs to maintain some kind of internal state of its own. The topmost example given in the Kotlin documentation is _terrible_ for understanding how Delegate setters function, and should probably be changed. I'll think about adding in a PR for updating that.
+
+**Link(s) to work:** Temporary Twitch VOD is at https://www.twitch.tv/videos/820533114. I'll add the YT link as soon as I'm able to export it.
+
+----------
