@@ -24,7 +24,7 @@ I'm livestreaming this _entire_ thing on [Twitch](https://twitch.tv/mindstormer6
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: 2020-11-27
+### Day 1: 2020-12-01
 
 **Progress:** 
 
@@ -91,5 +91,32 @@ Interesting thing I learnt: Java functions cannot be called from the Kotlin side
 Delegates afforded the most amount of trouble for me. One thing I understood was that a delegate for a mutable property most likely needs to maintain some kind of internal state of its own. The topmost example given in the Kotlin documentation is _terrible_ for understanding how Delegate setters function, and should probably be changed. I'll think about adding in a PR for updating that.
 
 **Link(s) to work:** Temporary Twitch VOD is at https://www.twitch.tv/videos/820533114. I'll add the YT link as soon as I'm able to export it.
+
+----------
+
+### Day 6: 2020-12-01
+
+**Progress:** Worked on another part of the design, which defines mappers for converting message components into the pieces which make up the transaction (like the amount, or the counterparty data). Also worked on refactoring some existing code -- I realized I could use interfaces for any classes that I hadn't yet defined.
+
+**Thoughts:** It was an interesting stream since I got a new random person joining the stream, and I notice that I'm a lot more focused when I know I'm being watched 😁.
+
+The limitation of using an interface as a class substitute (in order to code in that part of the implementation later) is that you can't force any _constructor behavior_. The same applies to abstract classes as neither of them have constructors in the first place. I ran into this issue with the `Money` class I was trying to implement, because I needed the behavior that limits the decimal scale to 2 at construction time.
+
+Some interesting definitions: _Scale_ refers to the number of places after the decimal point, while _precision_ is the number of significant digits, or digits that matter (precision is counted in TOTAL, not just for the ones after the decimal point). 180.25 has precision 5 and scale 2, while the same number with precision 2 and scale 5 would be 1.80000E2 (I think).
+
+
+**Link(s) to work:** Temporary Twitch VOD is at https://www.twitch.tv/videos/821572414. I'll add the YT link as soon as I'm able to export it.
+
+----------
+
+### Day 7: 2020-12-02
+
+**Progress:** Wrote what looks like _most_ of the rest of the code for the Thing-That-Generates-Transactions, which I've helpfully titled `TransactionGenerator` (until I can think of a better name I suppose). Also a bit more refactoring. The refactoring is really an ongoing thing, I guess I should stop mentioning it.
+
+**Thoughts:** I was *really* sleepy this morning, and I guess it showed because I took twice as long to think about what I was trying to do than I normally do. It's hard to switch to being a morning person. Guess I still need practice.
+
+I seem to be hitting some kind of mental roadblock with the path forward. Probably time to hit the iterative design pit stop again and work on refining my mental idea of the implementation.
+
+**Link(s) to work:** Temporary Twitch VOD is at https://www.twitch.tv/videos/822809189. I'll add the YT link as soon as I'm able to export it.
 
 ----------
