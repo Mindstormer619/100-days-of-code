@@ -120,3 +120,36 @@ I seem to be hitting some kind of mental roadblock with the path forward. Probab
 **Link(s) to work:** Temporary Twitch VOD is at https://www.twitch.tv/videos/822809189. I'll add the YT link as soon as I'm able to export it.
 
 ----------
+
+### Day 8: 2020-12-03
+
+**Progress:** Completed the Kotlin katas! 2 short sections, one on Builders and one on Generics. I thought I might be able to divert some time to MockK, but no such luck.
+
+**Thoughts:** Kotlin has _a lot of features_. Right as I neared completion of the exercises, I saw whole _sections_ of concepts in the documentation which were not even mentioned in the katas. Good lord.
+
+Also generics are incredibly complicated to understand and I will be tackling them tomorrow.
+
+Something I learnt: _Receivers_ are objects on which methods are called. So if you call `a.foo(b)`, `b` is a parameter, but `a` is the receiver. Useful terminology for understanding extension functions.
+
+**Link(s) to work:** Temporary Twitch VOD is at https://www.twitch.tv/videos/823953049. I'll add the YT link as soon as I'm able to export it.
+
+----------
+
+### Day 9: 2020-12-04
+
+**Progress:** Based on the katas yesterday, I decided to take a deeper look at the concept of Generics in Kotlin and Java. Did almost all of the Generics stuff, except for [Star Projections](https://kotlinlang.org/docs/reference/generics.html#star-projections).
+
+**Thoughts:** The ideas are fairly complicated, but in essence I got a few takeaways:
+
+* If you're only gonna _output_ a particular generic type `T`, mark it as `out T`. This is the _producer configuration_.
+  * You can now use any `T` or its subtype while reading from it.
+* If you're only gonna _input_ a particular generic type `T`, mark it as `in T`. This is the _consumer configuration_.
+  * You can now use any `T` or its supertype while writing to it.
+
+I don't think I've still fully been able to define what covariance and contravariance are, but I'm getting there. I got completely stuck at Star Projections though. I'll be tackling that again tomorrow.
+
+Interesting note: Java arrays are _not_ invariant, which means that `String[] extends Object[]`.
+
+**Link(s) to work:** Temporary Twitch VOD is at https://www.twitch.tv/videos/825060401. I'll add the YT link as soon as I'm able to export it.
+
+----------
