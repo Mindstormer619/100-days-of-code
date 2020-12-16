@@ -153,3 +153,97 @@ Interesting note: Java arrays are _not_ invariant, which means that `String[] ex
 **Link(s) to work:** Temporary Twitch VOD is at https://www.twitch.tv/videos/825060401. I'll add the YT link as soon as I'm able to export it.
 
 ----------
+
+<!-- Add missing entries here! -->
+
+----------
+
+### Day 13: 2020-12-08
+
+**Progress:** The core of the application is mostly complete. Some exception conditions remain to be tested, but for the most part it's expected to work.
+
+**Thoughts:** MockK is pretty fantastic. I'm still trying to get the hang of how to work with it, but so far it's been great for isolating the behavior of dependencies.
+
+**Link(s) to work:** 
+
+----------
+
+### Day 14: 2020-12-09
+
+**Progress:** Little break from the project, today I did Day 1 and 2 of [Advent Of Code](https://adventofcode.com). All in Kotlin, of course 😄
+
+**Thoughts:** AoC puzzles are _so fun!_ This is the textbook example for how to write good questions that test your logic and programming basics, while at the same time not focusing too hard on minutiae of performance and convoluted algorithms. I'm really having fun with this. Also, it's pretty incredible what Kotlin can do with its extensive standard library of extension functions. For example:
+
+```kotlin
+"aaaabbb".count {it == 'a'}  // returns 4
+```
+
+**Link(s) to work:** 
+
+----------
+
+### Day 15: 2020-12-10
+
+**Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+----------
+
+### Day 16: 2020-12-11
+
+**Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+----------
+
+### Day 17: 2020-12-12
+
+**Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+----------
+
+### Day 18: 2020-12-13
+
+**Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+----------
+
+**Skipped 2020-12-14 due to work running incredibly late.**
+
+----------
+
+### Day 19: 2020-12-15
+
+**Progress:** 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+
+----------
+
+### Day 20: 2020-12-16
+
+**Progress:** Completed AoC Day 10, and half of Day 11. So essentially we did one question, but half of one and half of another.
+
+**Thoughts:** Day 10 Part 2 was a _very_ interesting question, in that it _requires_ memoization to solve! Otherwise it runs on and on forever. With memoization it actually completed almost instantaneously (less than half a second in Kotlin). That's pretty amazing.
+
+Day 11 Part 1 has an interesting problem layout. Will be fun to solve Part 2 tomorrow morning.
+
+**Link(s) to work:** 
+
+----------
